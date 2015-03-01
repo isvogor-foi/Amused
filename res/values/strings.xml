@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Amused</string>
+	<string name="title_activity_main">Amused</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="periods_url">http://thor.foi.hr/amused/period/index.json
+	</string>
+
+	<string name="pieces_show_url">http://thor.foi.hr/amused/piece/show/</string>
+	<string name="pieces_url">http://thor.foi.hr/amused/piece/index.json</string>
+
+	<string name="authors_show_url">http://thor.foi.hr/amused/author/show/</string>
+	<string name="authors_url">http://thor.foi.hr/amused/author/index.json
+	</string>
+
+	<string name="rootSite">http://thor.foi.hr</string>
+
+	<string name="biography">O životu</string>
+	<string name="funFacts">Djelo</string>
+	<string name="periods">Razdoblja</string>
+	<string name="authors">Skladatelji</string>
+	<string name="pieces">Skladbe</string>
+	<string name="periods_more">Više o razdoblju</string>
+	<string name="authors_and_pieces">Skladatelji i djela</string>
+	<string name="about_author_details">Više o autoru</string>
+
+	<string name="pieceMusicShape">Glazbeni oblik</string>
+	<string name="pieceMusicType">Glazbena vrsta</string>
+	<string name="pieceExecution">Izvedba</string>
+	<string name="pieceTempo">Tempo</string>
+	<string name="pieceDynamics">Dinamika</string>
+	<string name="pieceMood">Ugođaj</string>
+	<string name="music_content">Glazbene sastavnice</string>
+	<string name="pieceFunFact">Zanimljivosti</string>	
+	
+	<string name="loading">Učitavanje podataka</string>
+	<string name="pleaseWait">Molim vas pričekajte.</string>
+	
+	<string name="about">O AMusEd</string>
+	<string name="appAuthor">Autor</string>
+	<string name="aboutApp">Amused je aplikacija namjenjena učenju glazbenih razdoblja</string>
+	<string name="authorName">Author</string>
+	<string name="amused">Amused</string>
+
+</resources>

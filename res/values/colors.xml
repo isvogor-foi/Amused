@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="transparent" type="color">@android:color/transparent</item>
+	<item name="pink_bright" type="color">#FFF1F0FF</item>
+	<item name="pink" type="color">#FFC3C3E5</item>
+	<item name="pink_dark" type="color">#FF8C489F</item>
+	<item name="white" type="color">#FFFFFFFF</item>
+	<item name="main_background" type="color">#FFFFFFFF</item>
+	<item name="text_color" type="color">#FF000000</item>
+
+</resources>

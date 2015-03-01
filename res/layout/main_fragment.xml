@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/pink_dark"
+    android:orientation="vertical" 
+    android:layout_marginBottom="15dp">
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:padding="10dp"
+        android:layout_width="200dp"
+	    android:layout_height="43dp"
+	    android:scaleType="fitCenter"
+	    android:layout_gravity="center"
+        android:background="@color/pink_dark"
+        android:src="@drawable/grails_logo" 
+        android:layout_margin="5dp"
+        />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnPeriod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drop_shadow_lp"
+        android:layout_margin="@dimen/margin"
+ 		android:padding="15dp"
+        android:text="@string/periods"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnAuthor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drop_shadow_lp"
+        android:layout_margin="@dimen/margin"
+        android:padding="15dp"
+        android:text="@string/authors"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPiece"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drop_shadow_lp"
+        android:layout_margin="@dimen/margin"
+        android:padding="15dp"
+        android:text="@string/pieces"
+        android:textStyle="bold" />
+    
+     <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drop_shadow_lp"
+        android:layout_margin="@dimen/margin"
+        android:padding="15dp"
+        android:text="@string/about"
+        android:textStyle="bold" />
+
+</LinearLayout>
